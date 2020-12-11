@@ -17,7 +17,7 @@ This is the repository for Vue 3.0.
   ```bash
   npm install -g @vue/cli # OR yarn global add @vue/cli
   vue create hello-vue3
-  # select vue 3 preset
+  # select vue 3 preset linlin test
   ```
 
 ## Changes from Vue 2
